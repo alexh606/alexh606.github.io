@@ -1,8 +1,17 @@
+/* Global */
+
+body {
+    background-color: black;
+}
+
+
 /* Header */ 
 
 h1 {
     font-family: Times New Roman;
     text-align: center;
     font-weight: bold;
-    color: cornflowerblue;
+    color: whitesmoke;
 }
+
+/* footer */
